@@ -29,3 +29,13 @@ Skill 的 Prompt 参考文件同时保留去刻度默认模板和较早的完整
 Skill 的样本回测要求与独立质量验证是两件事：把已知案例修正到一致，并不能证明新样本同样一致。公开 README 和评估说明明确标注了这个边界。
 
 本次匿名化更新只作用于当前文件与下载包，未重写 Git 历史；旧提交不属于当前已去标识的公开版本。
+
+## 展示结构参考
+
+本轮 README 重组参考了以下项目的展示方式：
+
+- [Dify](https://github.com/langgenius/dify#readme)：定位与使用入口靠前，快速开始步骤简短。
+- [RAGFlow](https://github.com/infiniflow/ragflow#readme)：先展示实际行为，再展开功能与架构。本项目用明确标注的改写示例展示输入与输出。
+- [LangChain](https://github.com/langchain-ai/langchain#readme)：简短定位配合最小使用示例，深入内容通过文档入口展开。
+
+首页集中呈现案例、价值、实践记录和使用方式；完整模式流程移至 [design.md](design.md)，指标说明和架构设计保留在各自文档中。案例仍标明人工编写，效果数字保留证据范围，设计中的能力标明状态。

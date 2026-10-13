@@ -1,6 +1,6 @@
 # 评估方法与证据边界
 
-[返回首页](../README.md) · [English overview](../README.en.md#results-and-how-to-read-them)
+[返回首页](../README.md) · [English overview](../README.en.md#results)
 
 本项目衡量的是 AI 输出与经确认业务标准的一致程度。人工判断是需复核的业务参照，不自动等同于客观正确性；有争议的标签应先澄清再用于标定。
 
