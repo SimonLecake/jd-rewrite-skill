@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+# Keep private source documents and working materials out of publication.
+*.docx
+*.pdf
+*.log
+.local-backup/
+tmp/

@@ -1,0 +1,19 @@
+{
+  "Example_Only": true,
+  "Implementation_Status": "proposed_schema_example_not_a_running_service",
+  "Case_ID": "synthetic-case-001",
+  "JD": "Fictional role: maintain technical documentation; knowledge-base experience preferred.",
+  "Resume": "Synthetic evidence summary: maintained a help center with source tracking and version updates.",
+  "AI_Decision": "not_pass",
+  "AI_Reasoning": "The exact phrase knowledge-base project was not present.",
+  "Human_Decision": "pass",
+  "Human_Reasoning": "The demonstrated tasks support the required content-maintenance capabilities.",
+  "Error_Type": "transferability_keyword_mismatch",
+  "Correction_Rule": "Assess evidence of source tracking and content maintenance rather than requiring an exact project label.",
+  "Case_Status": "confirmed",
+  "Job_Family": "synthetic_knowledge_operations",
+  "Trigger_Feature": ["different_project_label", "transferable_task_evidence"],
+  "Recurrence_Count": 0,
+  "Created_At": "2026-01-01T00:00:00Z",
+  "Updated_At": "2026-01-01T00:00:00Z"
+}
